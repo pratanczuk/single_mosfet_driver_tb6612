@@ -1,0 +1,84 @@
+# EESchema Netlist Version 1.1 created  2012-03-06 22:10:55
+(
+ ( /4EAD92CD SM0805 C1 100nf
+  ( 1 N-000010 )
+  ( 2 GNDA )
+ )
+ ( /4EAD9375 SM0805 C2 100nf
+  ( 1 +5V )
+  ( 2 GND )
+ )
+ ( /4EAD9304 ECSS-B C3 10uf
+  ( 1 N-000010 )
+  ( 2 GNDA )
+ )
+ ( /4ED546CD SM0805 C4 100nf
+  ( 1 N-000010 )
+  ( 2 GNDA )
+ )
+ ( /4ED546CC ECSS-B C5 10uf
+  ( 1 N-000010 )
+  ( 2 GNDA )
+ )
+ ( /4ED5473D ECSS-B C6 10uf
+  ( 1 +5V )
+  ( 2 GND )
+ )
+ ( /4EAD9CD3 SM1812 D1 DIODE
+  ( 1 VCC )
+  ( 2 N-000010 )
+ )
+ ( /4EAB2FAC PIN_ARRAY_2X1 P1 CONN_2
+  ( 1 N-000007 )
+  ( 2 N-000008 )
+ )
+ ( /4EAD9148 PINTST P2 PWM
+  ( 1 N-000004 )
+ )
+ ( /4EAD9179 PIN_ARRAY_2X1 P3 IN
+  ( 1 N-000006 )
+  ( 2 N-000003 )
+ )
+ ( /4EAD9D2B PIN_ARRAY_2X1 P4 Power
+  ( 1 VCC )
+  ( 2 GNDA )
+ )
+ ( /4ED5485B PIN_ARRAY_2X1 P5 +5v
+  ( 1 GND )
+  ( 2 +5V )
+ )
+ ( /4EAB2F7D SSOP24 uc1 TB6612FNG
+  ( 1 N-000008 )
+  ( 2 N-000008 )
+  ( 3 GNDA )
+  ( 4 GNDA )
+  ( 5 N-000007 )
+  ( 6 N-000007 )
+  ( 7 N-000007 )
+  ( 8 N-000007 )
+  ( 9 GNDA )
+  ( 10 GNDA )
+  ( 11 N-000008 )
+  ( 12 N-000008 )
+  ( 13 N-000010 )
+  ( 14 N-000010 )
+  ( 15 N-000004 )
+  ( 16 N-000003 )
+  ( 17 N-000006 )
+  ( 18 GND )
+  ( 19 +5V )
+  ( 20 +5V )
+  ( 21 N-000006 )
+  ( 22 N-000003 )
+  ( 23 N-000004 )
+  ( 24 N-000010 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component D1
+ D?
+ S*
+$endlist
+$endfootprintlist
+}

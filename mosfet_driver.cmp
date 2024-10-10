@@ -1,0 +1,94 @@
+Cmp-Mod V01 Created by CvPCB (2011-07-08 BZR 3044)-stable date = 2012-03-06 22:10:55
+
+BeginCmp
+TimeStamp = /4EAD92CD;
+Reference = C1;
+ValeurCmp = 100nf;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EAD9375;
+Reference = C2;
+ValeurCmp = 100nf;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EAD9304;
+Reference = C3;
+ValeurCmp = 10uf;
+IdModule  = ECSS-B;
+EndCmp
+
+BeginCmp
+TimeStamp = /4ED546CD;
+Reference = C4;
+ValeurCmp = 100nf;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4ED546CC;
+Reference = C5;
+ValeurCmp = 10uf;
+IdModule  = ECSS-B;
+EndCmp
+
+BeginCmp
+TimeStamp = /4ED5473D;
+Reference = C6;
+ValeurCmp = 10uf;
+IdModule  = ECSS-B;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EAD9CD3;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = SM1812;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EAB2FAC;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EAD9148;
+Reference = P2;
+ValeurCmp = PWM;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EAD9179;
+Reference = P3;
+ValeurCmp = IN;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EAD9D2B;
+Reference = P4;
+ValeurCmp = Power;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4ED5485B;
+Reference = P5;
+ValeurCmp = +5v;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EAB2F7D;
+Reference = uc1;
+ValeurCmp = TB6612FNG;
+IdModule  = SSOP24;
+EndCmp
+
+EndListe
